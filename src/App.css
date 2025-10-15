@@ -7,15 +7,15 @@
 :root {
   --primary-color: #7c3aed;
   --primary-dark: #5b21b6;
-  --secondary-color: #db2777;
-  --accent-color: #f472b6;
+  --secondary-color: #a827db;
+  --accent-color: #9842df;
   --text-color: #e2e8f0;
   --light-text: #94a3b8;
   --background: #0f172a;
   --section-bg: #1e293b;
   --card-bg: #1e293b;
   --gradient-start: #7c3aed;
-  --gradient-end: #db2777;
+  --gradient-end: #1d41e2;
   --nav-bg: rgba(15, 23, 42, 0.8);
   --card-border: rgba(148, 163, 184, 0.1);
 }
